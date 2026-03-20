@@ -4,7 +4,7 @@
     "target": "esnext",
     "outDir": "./dist",         
     "rootDir": "./src",         
-    "types": [],
+    "types": ["jest", "node"],
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "strictPropertyInitialization": false,
