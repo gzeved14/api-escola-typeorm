@@ -6,4 +6,4 @@
 /docker-compose.yaml
 /.dockerignore
 /.github
-/.coverage
+/coverage
