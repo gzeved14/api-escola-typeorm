@@ -2,8 +2,8 @@
 
 ## 1) Identificação
 - Aluno: Gabriel
-- Link do repositório (Backend/Testes): _____________________________
-- Link do repositório (Frontend): _____________________________
+- Link do repositório (Backend/Testes):(https://github.com/gzeved14/api-escola-typeorm)
+- Link do repositório (Frontend): (https://github.com/gzeved14/EnergyMonitor)
 
 ## 2) Estrutura do projeto (organização clara e funcional)
 
