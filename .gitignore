@@ -6,5 +6,4 @@
 /docker-compose.yaml
 /.dockerignore
 /.github
-/.docs\validacao
 /.coverage
